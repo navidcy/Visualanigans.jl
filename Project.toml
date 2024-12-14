@@ -10,4 +10,4 @@ Oceananigans = "9e8cae18-63c1-5223-a75c-80ca9d6e9a09"
 
 [compat]
 Makie = "0.19, 0.20, 0.21"
-Oceananigans = "0.81 - 0.91"
+Oceananigans = "0.81 - 0.91, 0.95"
